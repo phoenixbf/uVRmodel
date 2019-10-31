@@ -1,0 +1,23 @@
+{
+  "FileVersion": 3,
+  "Version": 1,
+  "VersionName": "1.0",
+  "FriendlyName": "uVR",
+  "Description": "The uVR model combines real-walking techniques and an adaptive, game-driven, multi-scale progression to craft immersive re-contextualization applications.",
+  "Category": "Other",
+  "CreatedBy": "Bruno Fanini",
+  "CreatedByURL": "",
+  "DocsURL": "http://osiris.itabc.cnr.it/scenebaker/index.php/projects/uvr/",
+  "MarketplaceURL": "",
+  "SupportURL": "",
+  "CanContainContent": true,
+  "IsBetaVersion": false,
+  "Installed": false,
+  "Modules": [
+    {
+      "Name": "uVEd",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    }
+  ]
+}
