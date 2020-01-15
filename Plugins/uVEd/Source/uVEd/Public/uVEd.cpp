@@ -1,4 +1,9 @@
-// Copyright 1998-2017 Epic Games, Inc. All Rights Reserved.
+/*
+	uVR Model open-source UE4 plugin
+	author: B.Fanini (bruno.fanini__AT__gmail.com)
+	https://github.com/phoenixbf/uVRmodel
+
+===================================================*/
 
 #include "uVEd.h"
 

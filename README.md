@@ -1,5 +1,5 @@
 # μVR Model
-![μVR Model](./Plugins/uVEd/Resources/Icon128.png)  
+![μVR Model](./Plugins/uVEd/Resources/uVR-cover-h.jpg)  
 [Project Site](http://osiris.itabc.cnr.it/scenebaker/index.php/projects/uvr/)
 
 The μVR model (B. Fanini, CNR ISPC) combines real-walking techniques and an adaptive, game-driven, multi-scale progression to craft immersive re-contextualization 3D puzzles/applications. The model aims to minimize motion sickness while fully exploiting the physical tracked area. You can find the open-access article (2018) [here on Multimodal Technologies and Interaction journal](http://www.mdpi.com/2414-4088/2/2/20). Here is the bibtex to cite our research project.
@@ -17,6 +17,7 @@ The μVR model (B. Fanini, CNR ISPC) combines real-walking techniques and an ada
 
 The very first goal of the μVR Model (and 3D puzzles/applications created on top of it) is to completely remove artificial locomotion techniques (e.g., teleport) by instead exploiting the *physical tracked area* and **real walking** techniques combined with game state and world scale.
 
-## Template project for Unreal Engine 4
+## Template project
+The template project provides you a VR-ready setup with a sample 3D scene and open-source plugin (C++ and Blueprints) to create your own μVR levels / games.
 ![μVR Template](./sshot.jpg)
-The template project provides you a VR-ready setup with a sample 3D scene and open-source plugin (C++ and Blueprints) to create your own μVR game.
+

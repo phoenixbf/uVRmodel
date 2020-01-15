@@ -1,4 +1,9 @@
-// Fill out your copyright notice in the Description page of Project Settings.
+/*
+	uVR Model open-source UE4 plugin
+	author: B.Fanini (bruno.fanini__AT__gmail.com)
+	https://github.com/phoenixbf/uVRmodel
+
+===================================================*/
 
 #include "uGM.h"
 
