@@ -2,7 +2,7 @@
 ![μVR Model](./Plugins/uVEd/Resources/uVR-cover-h.jpg)  
 [Project Site](http://osiris.itabc.cnr.it/scenebaker/index.php/projects/uvr/)
 
-The μVR model (B. Fanini, CNR ISPC) combines **real-walking** techniques and an adaptive, **multi-scale** gameplay to craft immersive *re-contextualization* 3D puzzles/applications. The model aims to remove/minimize motion sickness while fully exploiting the physical tracked area available.
+The μVR model (B. Fanini, CNR ISPC) combines **real-walking** techniques and an adaptive, **multi-scale** gameplay to craft immersive *re-contextualization* applications and 3D puzzles. The model aims to remove/minimize motion sickness while fully exploiting the physical tracked area available.
 You can find the open-access article (2018) [here on Multimodal Technologies and Interaction journal](http://www.mdpi.com/2414-4088/2/2/20). Here is the bibtex to cite our research project.
 ```
 @article{fanini2018uVR,
